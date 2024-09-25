@@ -16,4 +16,8 @@ And you know just what to do
 And I want to tell you so much
 I love you
 
-<!-- TODO: next verse -->
+I long to see the sunlight in your hair
+And tell you time and time again how much I care
+Sometime I feel my heart will overflow
+
+<!-- TODO: next chorus -->
