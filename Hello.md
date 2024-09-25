@@ -20,4 +20,7 @@ I long to see the sunlight in your hair
 And tell you time and time again how much I care
 Sometime I feel my heart will overflow
 
-<!-- TODO: next chorus -->
+Hello
+I've just got to let you know
+
+<!-- TODO: final chorus -->
