@@ -20,4 +20,15 @@ I long to see the sunlight in your hair
 And tell you time and time again how much I care
 Sometime I feel my heart will overflow
 
-<!-- TODO: next chorus -->
+Hello
+I've just got to let you know
+'Cause I wonder where you are
+And I wonder what you do
+Are you somewhere feeling lonely?
+Or is someone loving you?
+Tell me how to win your heart
+For I haven't got a clue
+But let me start by saying
+I love you
+
+<!-- TODO: final chorus -->
