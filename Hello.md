@@ -1,8 +1,11 @@
-# Hello
+# Hello - Lionel Richie
 
-<!-- TODO: first verse -->
+(verse)
+I've been alone with you inside my mind
+And in my dreams, I kissed your lips a thousend times
+I sometimes see you pass outside my door
 
-(Chorus)
+Hello
 Is it me you're looking for?
 I can see it in your yes
 I can see it in your smile
@@ -14,4 +17,3 @@ And I want to tell you so much
 I love you
 
 <!-- TODO: next verse -->
-
