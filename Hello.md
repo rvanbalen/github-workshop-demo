@@ -1,6 +1,5 @@
 # Hello - Lionel Richie
 
-(verse)
 I've been alone with you inside my mind
 And in my dreams, I kissed your lips a thousend times
 I sometimes see you pass outside my door
@@ -31,4 +30,20 @@ For I haven't got a clue
 But let me start by saying
 I love you
 
-<!-- TODO: final chorus -->
+Hello
+Is it me you're looking for
+'Cause I wonder where you are
+And I wonder what you do
+Are you somewhere feeling lonely?
+Or is someone loving you?
+Tell me how to win your heart
+For I haven't got a clue
+But let me start by saying
+I love you
+
+## Credits
+
+Performed by: Lionel Richie
+Written by: Lionel Richie
+Produced by: Lionel Richie, James Anthony Carmichael
+ 
